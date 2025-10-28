@@ -1,6 +1,6 @@
 import React from 'react'
 // import Service from '../_component/service_section/Service'
-import Service from "../_component/service_section/service";
+import Service from "../_component/service_section/Service";
 
 import Client from '../_component/client_section/Client'
 import LandingPage from '../_component/LandingPage'       

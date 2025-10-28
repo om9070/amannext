@@ -68,7 +68,7 @@ const Hero = dynamic(() => import("./_component/hero_section/Hero"), {
   ),
 });
 
-const Service = dynamic(() => import("./_component/service_section/service"), {
+const Service = dynamic(() => import("./_component/service_section/Service"), {
   loading: () => (
     <p>
       <Loading />
