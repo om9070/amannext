@@ -1,23 +1,23 @@
 // app/faq/layout.js
 
 export const metadata = {
-  metadataBase: new URL("https://www.aonevendingservice.com"),
+  metadataBase: new URL("https://www.aonevendingservice.in"),
   title: {
     default: "FAQ | Coffee & Tea Solutions - Coffee Machine Sales & Service Delhi NCR",
     template: "%s | Coffee & Tea Solutions",
   },
   description:
     "Find answers to frequently asked questions about Coffee & Tea Solutions. Learn about coffee machine sales, vending services, installation, and maintenance in Delhi NCR.",
-  authors: [{ name: "Coffee & Tea Solutions", url: "https://www.aonevendingservice.com" }],
+  authors: [{ name: "Coffee & Tea Solutions", url: "https://www.aonevendingservice.in" }],
   openGraph: {
     title: "FAQ | Coffee & Tea Solutions",
     description:
       "Frequently asked questions about Coffee & Tea Solutions services, vending machines, coffee & tea products, and maintenance in Delhi NCR.",
-    url: "https://www.aonevendingservice.com/faqs",
+    url: "https://www.aonevendingservice.in/faqs",
     siteName: "Coffee & Tea Solutions",
     images: [
       {
-        url: "https://www.aonevendingservice.com/neo3/neo1.jpeg",
+        url: "https://www.aonevendingservice.in/neo3/neo1.jpeg",
         width: 1200,
         height: 630,
         alt: "FAQ Coffee & Tea Solutions",
@@ -31,14 +31,14 @@ export const metadata = {
     title: "FAQ | Coffee & Tea Solutions",
     description:
       "Find answers to common questions about Coffee & Tea Solutions: coffee machines, tea machines, vending services, and products in Delhi NCR.",
-    images: ["https://www.aonevendingservice.com/neo3/neo1.jpeg"],
+    images: ["https://www.aonevendingservice.in/neo3/neo1.jpeg"],
   },
   robots: {
     index: true,
     follow: true,
   },
   alternates: {
-    canonical: "https://www.aonevendingservice.com/faqs",
+    canonical: "https://www.aonevendingservice.in/faqs",
   },
 };
 

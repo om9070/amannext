@@ -1,22 +1,22 @@
 
 export const metadata = {
-  metadataBase: new URL("https://www.aonevendingservice.com"),
+  metadataBase: new URL("https://www.aonevendingservice.in"),
   title: {
     default: "Contact Us | Coffee & Tea Solutions - Coffee Machine Sales & Service Delhi NCR",
     template: "%s | Coffee & Tea Solutions",
   },
   description:
     "Get in touch with Coffee & Tea Solutions for coffee machine, tea machine, and vending machine sales and services in Delhi NCR. Contact us for inquiries, installation, or support.",
-  authors: [{ name: "Coffee & Tea Solutions", url: "https://www.aonevendingservice.com" }],
+  authors: [{ name: "Coffee & Tea Solutions", url: "https://www.aonevendingservice.in" }],
   openGraph: {
     title: "Contact Coffee & Tea Solutions | Coffee & Vending Machine Service Delhi NCR",
     description:
       "Reach out to Coffee & Tea Solutions for coffee, tea, and vending machine services in Delhi NCR. Contact for sales, support, and service inquiries.",
-    url: "https://www.aonevendingservice.com/contact",
+    url: "https://www.aonevendingservice.in/contact",
     siteName: "Coffee & Tea Solutions",
     images: [
       {
-        url: "https://www.aonevendingservice.com/classic3/classic1.jpeg",
+        url: "https://www.aonevendingservice.in/classic3/classic1.jpeg",
         width: 1200,
         height: 630,
         alt: "Contact Coffee & Tea Solutions",
@@ -30,14 +30,14 @@ export const metadata = {
     title: "Contact Coffee & Tea Solutions | Delhi NCR",
     description:
       "Get in touch with Coffee & Tea Solutions for coffee and vending machine sales and service in Delhi NCR.",
-    images: ["https://www.aonevendingservice.com/classic3/classic1.jpeg"],
+    images: ["https://www.aonevendingservice.in/classic3/classic1.jpeg"],
   },
   robots: {
     index: true,
     follow: true,
   },
   alternates: {
-    canonical: "https://www.aonevendingservice.com/contact",
+    canonical: "https://www.aonevendingservice.in/contact",
   },
 };
 
@@ -53,10 +53,10 @@ export default function ContactLayout({ children }) {
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               name: "Coffee & Tea Solutions",
-              url: "https://www.aonevendingservice.com",
-              logo: "https://www.aonevendingservice.com/logo.jpg",
+              url: "https://www.aonevendingservice.in",
+              logo: "https://www.aonevendingservice.in/logo.jpg",
               telephone: "+91-7870183270",
-              email: "info@aonevendingservice.com",
+              email: "info@aonevendingservice.in",
               address: {
                 "@type": "PostalAddress",
                 streetAddress: "Sector 12, Dwarka",

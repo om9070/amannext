@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://www.aonevendingservice.com"),
+  metadataBase: new URL("https://www.aonevendingservice.in"),
   title: {
     default:
       "Coffee & Vending Machine Sales and Service in Delhi NCR | Coffee & Tea Solutions",
@@ -35,16 +35,16 @@ export const metadata = {
     "coffee vending machine delhi",
     "cappuccino machine delhi",
   ],
-  authors: [{ name: "Coffee & Tea Solutions", url: "https://www.aonevendingservice.com" }],
+  authors: [{ name: "Coffee & Tea Solutions", url: "https://www.aonevendingservice.in" }],
   openGraph: {
     title: "Coffee & Vending Machine Sales & Service in Delhi NCR",
     description:
       "Your trusted partner for coffee, tea, and vending machines in Delhi NCR. We also supply coffee premix, tea premix, lemon mix, and cappuccino products.",
-    url: "https://www.aonevendingservice.com",
+    url: "https://www.aonevendingservice.in",
     siteName: "Coffee & Tea Solutions",
     images: [
       {
-        url: "https://www.aonevendingservice.com/home/hero1.png",
+        url: "https://www.aonevendingservice.in/home/hero1.png",
         width: 1200,
         height: 630,
         alt: "Coffee Machine Service in Delhi NCR",
@@ -58,14 +58,14 @@ export const metadata = {
     title: "Coffee & Vending Machine Sales & Service in Delhi NCR",
     description:
       "Buy or service your coffee, tea, and vending machines in Delhi NCR. Get vending solutions, coffee premix, lemon powder, cappuccino and more.",
-    images: ["https://www.aonevendingservice.com/home/hero1.png"],
+    images: ["https://www.aonevendingservice.in/home/hero1.png"],
   },
   robots: {
     index: true,
     follow: true,
   },
   alternates: {
-    canonical: "https://www.aonevendingservice.com",
+    canonical: "https://www.aonevendingservice.in",
   },
    icons: {
     icon: "/favicon.ico", // your custom favicon
@@ -86,9 +86,9 @@ export default function RootLayout({ children }) {
                 "@context": "https://schema.org",
                 "@type": "LocalBusiness",
                 name: "Coffee & Tea Solutions",
-                image: "https://www.aonevendingservice.com/logo.jpg",
-                "@id": "https://www.aonevendingservice.com",
-                url: "https://www.aonevendingservice.com",
+                image: "https://www.aonevendingservice.in/logo.jpg",
+                "@id": "https://www.aonevendingservice.in",
+                url: "https://www.aonevendingservice.in",
                 telephone: "+91-7870183270",
                 address: {
                   "@type": "PostalAddress",

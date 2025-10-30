@@ -8,7 +8,7 @@ export const metadata = {
             "Top-Rated Services in Delhi NCR | Expert Solutions for Home & Business",
         description:
             "Discover high-quality, affordable services available across Delhi, Noida, and Gurgaon. Book trusted experts with fast delivery and guaranteed satisfaction.",
-        url: "https://aonevendingservice.com/service",
+        url: "https://aonevendingservice.in/service",
         siteName: "YourBrand",
         type: "website",
     },
@@ -20,7 +20,7 @@ export const metadata = {
             "Book trusted experts in Delhi NCR for home and business services — quick, reliable, and affordable.",
     },
     alternates: {
-        canonical: "https://aonevendingservice.com/service",
+        canonical: "https://aonevendingservice.in/service",
     },
 };
 
@@ -39,8 +39,8 @@ export default function ServicesPage({ children }) {
                             provider: {
                                 "@type": "Organization",
                                 name: "YourBrand",
-                                url: "https://aonevendingservice.com",
-                                logo: "https://aonevendingservice.com/logo.png",
+                                url: "https://aonevendingservice.in",
+                                logo: "https://aonevendingservice.in/logo.png",
                             },
                             areaServed: [
                                 {
