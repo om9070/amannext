@@ -48,8 +48,8 @@ export default function ProductList({ dataItem, active }) {
                     {data.productName}
                   </h3>
                   <p className="mt-2 flex justify-between items-center">
-                    <span className="tracking-wider text-gray-900">
-                      💸 {data.price}
+                    <span className="tracking-wider text-gray-900 font-bold">
+                    ₹ {data.price}
                     </span>
                     <button className="bg-amber-500 text-white px-2 py-1 rounded-lg text-sm hover:bg-amber-600">
                       Get Details

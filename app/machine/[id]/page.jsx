@@ -12,15 +12,18 @@ export default function MachinePage() {
     const [data, setData] = useState(null);
     const [selectedImage, setSelectedImage] = useState(null);
 
+
+
     useEffect(() => {
         if (id) {
-            const found = machine.find((d) => d.id === parseInt(id));
+            const found = machine.find((d) => d.id === +(id));
             setData(found);
             setSelectedImage(found?.images?.[0]);
         }
     }, [id]);
 
 
+    console.log(parseInt(data?.price || 0)*27/100,"data?.price")
 
     return (
         <>
@@ -88,13 +91,13 @@ export default function MachinePage() {
                             <div className="grid grid-cols-1 gap-1 py-3 sm:grid-cols-3 sm:gap-4">
                                 <dt className="font-medium text-gray-900">MRP</dt>
 
-                                <dd className="text-gray-700 sm:col-span-2"><p className="text-xl text-gray-500 line-through">{data?.price + parseInt(data?.price) / 10}</p></dd>
+                                <dd className="text-gray-700 sm:col-span-2"><p className="text-xl text-gray-500 line-through">{parseInt(data?.mrp) }/-</p></dd>
                             </div>
 
                             <div className="grid grid-cols-1 gap-1 py-3 sm:grid-cols-3 sm:gap-4">
                                 <dt className="font-medium text-gray-900">Offer PRICE</dt>
 
-                                <dd className="text-gray-700 sm:col-span-2"> <p className="text-2xl font-bold text-[#D32F2F]">{data?.price}/-</p> </dd>
+                                <dd className="text-gray-700 sm:col-span-2"> <p className="text-2xl font-bold text-[#D32F2F]">{data?.price}</p> </dd>
                             </div>
 
                             <div className="grid grid-cols-1 gap-1 py-3 sm:grid-cols-3 sm:gap-4">

@@ -21,21 +21,31 @@ export const metadata = {
     template: "%s | Coffee & Tea Solutions",
   },
   description:
-    "We provide coffee machine, tea machine, hot & cold water machine, and lemon machine sales and services in Delhi NCR. Also offering coffee powder, tea premix, lemon powder, cappuccino, and more. Trusted vending solutions for offices, cafés, and businesses.",
+    "We provide coffee machine, tea machine, hot & cold water machine, and lemon machine sales and services in Delhi NCR | Noida | Delhi | Gurugram. Also offering coffee powder, tea premix, lemon powder, cappuccino, and more. Trusted vending solutions for offices, cafés, and businesses.",
   keywords: [
     "aonevendingmachine",
-    "coffee machine Delhi",
-    "Coffee machine repair delhi",
-    "vending machine delhi ",
-    "vending machine repair delhi",
-    "coffee machine sale in delhi",
-    "coffee machine service in delhi",
-    "tea coffee soup vending machine price in delhi",
-    "tea coffee vending machine repair & services in delhi",
-    "coffee vending machine delhi",
-    "cappuccino machine delhi",
+    "coffee vending machine Delhi NCR",
+    "coffee machine service Delhi NCR",
+    "coffee machine repair Delhi NCR",
+    "tea coffee vending machine Delhi NCR",
+    "vending machine supplier Delhi NCR",
+    "coffee vending machine Noida",
+    "coffee machine service Noida",
+    "tea coffee vending machine Gurugram",
+    "coffee machine repair Gurugram",
+    "coffee vending machine Ghaziabad",
+    "coffee machine service Faridabad",
+    "Atlantis tea coffee vending machine service",
+    "Nescafe tea coffee powder supplier Delhi NCR",
+    "tea coffee soup vending machine price Delhi NCR",
+    "office coffee vending machine supplier Delhi NCR",
   ],
-  authors: [{ name: "Coffee & Tea Solutions", url: "https://www.aonevendingservice.in" }],
+  authors: [
+    {
+      name: "Coffee & Tea Solutions",
+      url: "https://www.aonevendingservice.in",
+    },
+  ],
   openGraph: {
     title: "Coffee & Vending Machine Sales & Service in Delhi NCR",
     description:
@@ -67,7 +77,7 @@ export const metadata = {
   alternates: {
     canonical: "https://www.aonevendingservice.in",
   },
-   icons: {
+  icons: {
     icon: "/favicon.ico", // your custom favicon
     apple: "/logo.png",
   },
@@ -109,8 +119,10 @@ export default function RootLayout({ children }) {
                   "https://www.facebook.com/yourpage",
                   "https://www.instagram.com/yourpage",
                 ],
+                title:
+                  "A One Vending Solutions | Tea & Coffee Vending Machine Service in Noida, Delhi, Gurugram",
                 description:
-                  "We provide coffee machine, tea machine, hot & cold water machine, and lemon machine sales and services in Delhi NCR. Also offering coffee powder, tea premix, lemon powder, cappuccino, and more.",
+                  "Call Now: +91-8920254090. A One Vending Solutions provides Atlantis tea and coffee vending machine service in Noida, Delhi, and Gurugram. We offer coffee machines, Nescafe tea coffee powder, vending machine spare parts, installation, repair, and maintenance services for offices and commercial spaces.",
                 areaServed: {
                   "@type": "Place",
                   name: "Delhi NCR",
@@ -119,10 +131,10 @@ export default function RootLayout({ children }) {
                   "Coffee Machine Sales delhi",
                   "Coffee Machine Service delhi",
                   "vending Machine in delhi",
-                  "Hot & Cold Water Machine in delhi",
-                  "Lemon Machine in delhi",
-                  "coffee machine repair delhi",
-                  "vending machine repair delhi"
+                  "Hot & Cold Water dispenser in delhi",
+                  "Coffee premix in noida",
+                  "coffee machine all type Premix",
+                  "vending machine repair delhi",
                 ],
               },
               // FAQ Schema

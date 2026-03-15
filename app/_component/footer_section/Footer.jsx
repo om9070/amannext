@@ -31,7 +31,7 @@ export default function Footer() {
                 </div>
                 <div className='flex flex-col align-text-top text-start'>
                   <p className="font-bold text-2xl">A One Vending Service</p>
-                  <p className='mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque nulla, ad accusantium pariatur ut tempora modi eius quis. Accusantium, maxime qui modi nihil delectus similique eaque debitis. Iste, illum incidunt?</p>
+                  <p className='mt-4'>A One Vending Solutions is a trusted provider of coffee vending machines, spare parts, and maintenance services in Delhi NCR. With over 6+ years of experience, we deliver high-quality coffee machines, vending materials, and reliable service support for offices, cafés, and commercial spaces.</p>
                 </div>
               </div>
               <div>

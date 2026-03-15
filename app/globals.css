@@ -22,7 +22,7 @@ body {
 }
 
 header {
-  /* background: linear-gradient(135deg, #6B4423 0%, #3E2723 100%); */
+  background: linear-gradient(135deg, #746051 0%, #532921 100%);
   color: white;
   padding: 1rem 0;
   position: fixed;
@@ -51,7 +51,7 @@ nav {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  color: #6c4c2b;
+  color: #edebe8;
 }
 
 .antialiased {
@@ -68,7 +68,7 @@ nav {
 }
 
 .nav-links a {
-  color: #6c4c2b;
+  color: #de760d;
   text-decoration: none;
   transition: color 0.3s;
   font-weight: 600;

@@ -1,18 +1,19 @@
 const machine = [
   {
     id: 1,
-    productName: "Atlantis classic 2",
-    price: 785,
-    title: "coffee | hot coffe | tea",
+    productName: "Atlantis classic 2 option",
+    price: "12000 /-",
+    mrp: "16500 /-",
+    title: "Coffee | Hot Coffee | Tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation.",
     machineFeature: [
-      "quick service",
-      "experiece serivice engineer",
-      "home service",
-      "24*7 active",
+      "Quick service",
+      "Experienced serivice engineer",
+      "Home service",
+      "24*7 Active",
       "COD",
-      "free shiping",
+      "Free shiping",
     ],
     images: [
       "/home/classic.png",
@@ -24,14 +25,15 @@ const machine = [
   },
   {
     id: 6,
-    productName: "Atlantis neo 3",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Atlantis neo 3 options",
+    price: "16500 /-",
+    mrp: "23250 /-",
+    title: "Coffee | Tea | Soup | Fresh Hot Water",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -47,13 +49,14 @@ const machine = [
   {
     id: 10,
     productName: "Atlantis select",
-    price: 785,
+    price: "22000/-",
+    mrp: "31500 /-",
     title: "coffee,hot coffe,tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -66,14 +69,15 @@ const machine = [
   },
   {
     id: 2,
-    productName: "Atlantis classic 3",
-    price: 785,
-    title: "coffee | hot coffe | tea",
+    productName: "Atlantis classic 3 option",
+    price: "15700 /-",
+    mrp: "22000 /-",
+    title: "coffee | hot coffe | tea and soup",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -86,14 +90,15 @@ const machine = [
   },
   {
     id: 3,
-    productName: "Atlantis classic 4",
-    price: 785,
+    productName: "Atlantis classic 4 option",
+    price: "16950 /-",
+    mrp: "23950/-",
     title: "coffee | hot coffe | tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -107,14 +112,15 @@ const machine = [
   },
   {
     id: 4,
-    productName: "Atlantis neo 2",
-    price: 785,
+    productName: "Atlantis neo 2 option",
+    price: "13500 /-",
+    mrp: "18750/-",
     title: "coffee,hot coffe,tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -134,10 +140,10 @@ const machine = [
     price: 785,
     title: "coffee,hot coffe,tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -155,10 +161,10 @@ const machine = [
     price: 785,
     title: "coffee,hot coffe,tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -171,10 +177,10 @@ const machine = [
     price: 785,
     title: "coffee,hot coffe,tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -190,14 +196,15 @@ const machine = [
 const product = [
   {
     id: 1,
-    productName: "cappuccino coffee premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Cappuccino coffee premix 3 in 1",
+    price: "400 /-",
+    mrp: "515 /-",
+    title: "Milk | Coffee | Suger",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -211,14 +218,15 @@ const product = [
   },
   {
     id: 2,
-    productName: "express tea premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Express tea premix",
+    price: "300 /-",
+    mrp: "430/-",
+    title: "Tea ",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -231,14 +239,15 @@ const product = [
   },
   {
     id: 3,
-    productName: "kadak chai",
-    price: 785,
+    productName: "Kadak chai",
+    price: "300 /-",
+    mrp: "395 /-",
     title: "coffee,hot coffe,tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -251,14 +260,15 @@ const product = [
   },
   {
     id: 4,
-    productName: "coffe premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Coffe premix",
+    price: "400/-",
+    mrp: "515/-",
+    title: "Coffee",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -272,14 +282,15 @@ const product = [
   },
   {
     id: 6,
-    productName: "tea Premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Tea Premix instant",
+    price: "370/-",
+    mrp: "415/-",
+    title: "tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -294,14 +305,15 @@ const product = [
   },
   {
     id: 7,
-    productName: "masala tea premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Masala tea premix",
+    price: "320/-",
+    mrp: "430 /-",
+    title: "tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -314,14 +326,15 @@ const product = [
   },
   {
     id: 8,
-    productName: "lemon grass ginger",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Lemon grass ginger express",
+    price: "300/-",
+    mrp: "430/-",
+    title: "lemon | grass | ginger",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -334,14 +347,15 @@ const product = [
   },
   {
     id: 9,
-    productName: "ginger premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Ginger premix",
+    price: "380/-",
+    mrp: "495/-",
+    title: "Ginger",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -355,14 +369,15 @@ const product = [
   },
   {
     id: 10,
-    productName: "gold coffee premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Gold coffee premix",
+    price: "450/-",
+    mrp: "675/-",
+    title: "coffee",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -376,14 +391,15 @@ const product = [
   },
   {
     id: 11,
-    productName: "kadak coffee",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Kadak coffee",
+    price: "300/-",
+    mrp: "395/-",
+    title: "coffee | hot coffee",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -397,14 +413,15 @@ const product = [
   },
   {
     id: 12,
-    productName: "lemon grass ginger flavour",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Lemon grass ginger flavour",
+    price: "380/-",
+    mrp: "495/-",
+    title: "Lemon | tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -418,14 +435,15 @@ const product = [
   },
   {
     id: 13,
-    productName: "lemon tea with masala",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Lemon tea with masala",
+    price: "280/-",
+    mrp: "335/-",
+    title: "coffee | hot coffee |tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -440,14 +458,15 @@ const product = [
   },
   {
     id: 14,
-    productName: "coffee ice",
-    price: 785,
+    productName: "Coffee ice",
+    price: "400/-",
+    mrp: "500/-",
     title: "coffee,hot coffe,tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -455,14 +474,15 @@ const product = [
   },
   {
     id: 15,
-    productName: "nukkad coffee",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Nukkad coffee",
+    price: "280/-",
+    mrp: "360/-",
+    title: "coffee",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -476,14 +496,15 @@ const product = [
   },
   {
     id: 16,
-    productName: "coffee powder",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Coffee powder",
+    price: "400/-",
+    mrp: "480/-",
+    title: "coffee",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -496,14 +517,15 @@ const product = [
   },
   {
     id: 17,
-    productName: "instant coffee premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Instant coffee premix",
+    price: "300/-",
+    mrp: "430/-",
+    title: "coffee | hot coffee",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -516,14 +538,15 @@ const product = [
   },
   {
     id: 18,
-    productName: "rich whitener",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Rich whitener",
+    price: "300/-",
+    mrp: "345/-",
+    title: "Milk",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -537,14 +560,15 @@ const product = [
   },
   {
     id: 19,
-    productName: "signature coffee",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Signature coffee",
+    price: "780/-",
+    mrp: "885/-",
+    title: "coffee | hot coffee",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -557,14 +581,15 @@ const product = [
   },
   {
     id: 20,
-    productName: "tomato soup powder",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Tomato soup powder 500g",
+    price: "300/-",
+    mrp: "360/-",
+    title: "soup",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -578,14 +603,15 @@ const product = [
   },
   {
     id: 21,
-    productName: "plus tea premix",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Plus tea premix",
+    price: "400/-",
+    mrp: "515/-",
+    title: "tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -599,14 +625,15 @@ const product = [
   },
   {
     id: 22,
-    productName: "tea premix masala",
-    price: 785,
-    title: "coffee,hot coffe,tea",
+    productName: "Plus Tea premix masala",
+    price: "400/-",
+    mrp: "495/-",
+    title: "tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -620,14 +647,15 @@ const product = [
   },
   {
     id: 23,
-    productName: "tea premix regular",
-    price: 785,
+    productName: "Plus Tea premix regular",
+    price: "380/-",
+    mrp: "450/-",
     title: "coffee,hot coffe,tea",
     descripiton:
-      "Welcome to A One Vending Solutions, your premier destination for coffee machine sales and services in Delhi NCR. With over 10 years of experience in the industry.",
+      "At A One Vending Solutions, we provide high-quality vending machine components and reliable service solutions across Delhi NCR. Our 2-liter capacity hot tank is designed to deliver efficient and consistent hot water supply for coffee and tea vending machines, ensuring smooth and uninterrupted beverage preparation..",
     machineFeature: [
       "quick service",
-      "experiece serivice engineer",
+      "Experienced serivice engineer",
       "home service",
       "24*7 active",
     ],
@@ -637,6 +665,6 @@ const product = [
       "/product/tearmx/tearmx3.jpg",
       "/product/tearmx/tearmx4.jpg",
     ],
-  }
+  },
 ];
 export { machine, product };

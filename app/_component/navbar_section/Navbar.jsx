@@ -93,7 +93,7 @@ export default function Navbar() {
             </li>
             <li>
               <Link className={getpath === '/service-area' ? "active-color" : ""} href="/service-area" onClick={closeMenu}>
-                Service-area
+                Service-Area
               </Link>
             </li>
             <li>
